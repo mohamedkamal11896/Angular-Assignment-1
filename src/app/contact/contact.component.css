@@ -1,0 +1,15 @@
+.contact-body{
+    height: 100vh;
+}
+.contact-comp{
+    padding-top: 140px;
+}
+.line{
+    background-color: #2C3E50;
+}
+h1{
+    color: #2C3E50;
+}
+button{
+    color: white;
+}

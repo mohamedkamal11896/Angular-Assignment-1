@@ -1,0 +1,11 @@
+.avatarImg{
+    width: 20%;
+}
+.home-body{
+    height: 100vh;
+    background-color: #1ABC9C;
+    color: white;
+}
+.home-comp{
+    padding-top: 150px;
+}

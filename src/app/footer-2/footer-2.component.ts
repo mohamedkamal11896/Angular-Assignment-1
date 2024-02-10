@@ -1,0 +1,10 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-footer-2',
+  templateUrl: './footer-2.component.html',
+  styleUrls: ['./footer-2.component.css']
+})
+export class Footer2Component {
+
+}
